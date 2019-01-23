@@ -7,6 +7,7 @@ namespace Task4
         static void Main(string[] args)
 
         {
+            //Good
             //setup
             double itemWeight = 0.0;
             double cost = 0.0;
